@@ -6,4 +6,6 @@
 - Routing v6
 - props
 - nav links
-View : 
+
+
+Live Demo on [Netlify](https://responsivelayoutsidebar.netlify.app/).
